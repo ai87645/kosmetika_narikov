@@ -1,0 +1,58 @@
+.header{
+    display: flex;
+    text-transform: uppercase;
+    text-align: center;
+    padding-left: 140px;
+    background-color: grey;
+    padding-bottom: 45px;
+    font-size: 23px;
+}
+.info{
+    padding-left: 140px;
+    color: white;
+}
+.go{
+    padding-left: 140px;
+    color:white;
+}
+body{
+    background-color: #abc5a9;
+}
+
+.money{
+   
+    margin-top: 30px;
+    margin-left: 0px;
+    margin-bottom: 45px;
+}
+.opis-phon{
+    display: flex;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 32px;   
+}                     
+h3{
+    display: flex;
+}
+.fdd{
+    display: flex;
+    align-items: center;
+}
+.dtr{
+    display: flex;
+    align-items: center;
+}   
+
+.frdt,img{
+    display: flex;
+    align-items: center;
+    width: 800px;
+    height: 600px;
+}
+.footer{
+    background-color: black;
+    font-size: 35px;
+    padding-left: 40px;
+    display: flex;
+    color:white;
+}
